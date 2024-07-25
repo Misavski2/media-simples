@@ -1,0 +1,14 @@
+C:\Users\misae\Documents\MyProjects\CadastroCliente\bin\Debug\net8.0\CadastroCliente.exe
+C:\Users\misae\Documents\MyProjects\CadastroCliente\bin\Debug\net8.0\CadastroCliente.deps.json
+C:\Users\misae\Documents\MyProjects\CadastroCliente\bin\Debug\net8.0\CadastroCliente.runtimeconfig.json
+C:\Users\misae\Documents\MyProjects\CadastroCliente\bin\Debug\net8.0\CadastroCliente.dll
+C:\Users\misae\Documents\MyProjects\CadastroCliente\bin\Debug\net8.0\CadastroCliente.pdb
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.AssemblyInfoInputs.cache
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.AssemblyInfo.cs
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.dll
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\refint\CadastroCliente.dll
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.pdb
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\CadastroCliente.genruntimeconfig.cache
+C:\Users\misae\Documents\MyProjects\CadastroCliente\obj\Debug\net8.0\ref\CadastroCliente.dll
